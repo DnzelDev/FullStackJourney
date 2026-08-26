@@ -67,6 +67,7 @@ public class TicTacToe {
         } else {
             System.out.println("Empate. Buena suerta la próxima...");
         }
+        sw.close();
     }
 
     public static void imprimirTablero(char tablero[][]) {
