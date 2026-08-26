@@ -30,5 +30,6 @@ public class Main {
                     System.out.println("Opción inválida. Por favor, selecciona una opción válida.");
             }
         } while (opcion != 3);
+        sw.close();
     }
 }
