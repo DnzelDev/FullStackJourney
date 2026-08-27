@@ -1,5 +1,3 @@
-import java.nio.channels.Pipe.SourceChannel;
-
 public class PruebaVehiculo01 {
     public static void main(String[] args) {
         Vehiculo auto = new Vehiculo(-2, 4);
